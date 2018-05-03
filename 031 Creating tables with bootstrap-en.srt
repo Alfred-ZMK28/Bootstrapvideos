@@ -1,0 +1,208 @@
+1
+00:00:00,570 --> 00:00:06,900
+Are to going to use tables it's really easy to use tables and bootstrap
+
+2
+00:00:10,680 --> 00:00:13,200
+after the contact form.
+
+3
+00:00:13,320 --> 00:00:15,620
+Dig deep.
+
+4
+00:00:16,050 --> 00:00:17,100
+It's.
+
+5
+00:00:17,740 --> 00:00:19,710
+Common.
+
+6
+00:00:21,750 --> 00:00:29,060
+It's good idea to come and come to you to come back later on and you know not to get confused
+
+7
+00:00:33,480 --> 00:00:33,870
+to
+
+8
+00:00:39,120 --> 00:00:39,620
+do this.
+
+9
+00:00:39,730 --> 00:00:41,260
+The men do.
+
+10
+00:00:41,860 --> 00:00:44,220
+So did you know
+
+11
+00:00:47,680 --> 00:00:49,070
+do 10
+
+12
+00:00:52,240 --> 00:00:54,490
+do to
+
+13
+00:00:59,830 --> 00:01:03,520
+maybe do some
+
+14
+00:01:09,840 --> 00:01:10,460
+creative
+
+15
+00:01:14,870 --> 00:01:28,360
+terms to do and then heading heading What do you want.
+
+16
+00:01:31,040 --> 00:01:36,060
+In the.
+
+17
+00:01:39,030 --> 00:01:44,450
+That's for the heading that's create a boarded up team.
+
+18
+00:01:48,040 --> 00:01:50,330
+Devil did the roof.
+
+19
+00:01:50,560 --> 00:01:51,490
+So wrong.
+
+20
+00:01:51,510 --> 00:01:57,090
+It was same as the Butcher roll all the way from right to left and then columns.
+
+21
+00:01:57,230 --> 00:02:01,360
+So this one is 0 and headings did.
+
+22
+00:02:01,770 --> 00:02:04,820
+So I mean it skewed one
+
+23
+00:02:08,570 --> 00:02:12,510
+image in one and
+
+24
+00:02:16,440 --> 00:02:21,800
+the contact index
+
+25
+00:02:26,440 --> 00:02:27,660
+string.
+
+26
+00:02:27,850 --> 00:02:40,400
+Mr..
+
+27
+00:02:40,530 --> 00:02:41,310
+Yeah.
+
+28
+00:02:41,750 --> 00:02:43,820
+There you have it.
+
+29
+00:02:44,710 --> 00:02:49,320
+It's what can we do to make it better.
+
+30
+00:02:49,400 --> 00:02:56,810
+When you say those are terrible I don't believe betting it's that good.
+
+31
+00:02:57,250 --> 00:03:01,160
+And let's clear some more data to let go of it versus
+
+32
+00:03:04,370 --> 00:03:05,620
+fresh.
+
+33
+00:03:05,800 --> 00:03:06,310
+Yes.
+
+34
+00:03:06,530 --> 00:03:11,320
+Got some data this year with a background background Jumbotron.
+
+35
+00:03:11,830 --> 00:03:22,160
+And my question is it for Lance to contain Jim Butler was beer
+
+36
+00:03:25,340 --> 00:03:28,730
+good.
+
+37
+00:03:31,440 --> 00:03:32,840
+Yeah that looks good.
+
+38
+00:03:33,210 --> 00:03:38,450
+It's a bit of a bad thing to do.
+
+39
+00:03:39,930 --> 00:03:45,840
+It would be devil.
+
+40
+00:03:46,330 --> 00:03:49,070
+This is my last network.
+
+41
+00:03:49,190 --> 00:03:52,010
+It's different from
+
+42
+00:04:00,490 --> 00:04:06,180
+my entire picture.
+
+43
+00:04:07,700 --> 00:04:12,080
+Really easy and beautiful to wait tables in extra.
+
+44
+00:04:12,240 --> 00:04:17,290
+I get so good that we got there and we got there getting things done.
+
+45
+00:04:34,530 --> 00:04:35,980
+We created a little
+
+46
+00:04:42,580 --> 00:04:48,270
+crap table for it.
+
+47
+00:04:48,270 --> 00:04:50,750
+Are we nearly done with the book.
+
+48
+00:04:50,760 --> 00:04:52,080
+So we did quite a lot of things.
+
+49
+00:04:52,080 --> 00:04:59,970
+What are some cool things I want to show you like adding full with background images.
+
+50
+00:05:00,420 --> 00:05:07,660
+And probably I want to show you how you can apply the gradient color very background not just the solid
+
+51
+00:05:07,880 --> 00:05:12,830
+and looks really amazing and you will see in the future lessons.
+
+52
+00:05:12,830 --> 00:05:13,260
+Thank you.
+

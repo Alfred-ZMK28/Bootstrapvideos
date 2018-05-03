@@ -1,0 +1,224 @@
+1
+00:00:00,550 --> 00:00:06,610
+Hello and welcome back to the section in the section we're going to learn bootstrap in the previous
+
+2
+00:00:06,610 --> 00:00:16,080
+section we did a bit of a hasty immanency assist we learn how to use styling paddings and the basic
+
+3
+00:00:16,080 --> 00:00:16,560
+stuff.
+
+4
+00:00:16,590 --> 00:00:25,770
+But we're going to go to bootstrap now and to begin with what we will do is we will try to use bootstrap
+
+5
+00:00:25,770 --> 00:00:33,870
+on this space and see the difference because this is this really old school and you don't want to be
+
+6
+00:00:33,870 --> 00:00:34,430
+real.
+
+7
+00:00:34,470 --> 00:00:38,980
+So we have such a structure it looks it doesn't look right.
+
+8
+00:00:39,180 --> 00:00:48,570
+So we can use bootstrap in what would serve itsay has him and his team are CSSA and javascript's framework
+
+9
+00:00:49,290 --> 00:00:53,630
+for building responsive mobile first projects on the web.
+
+10
+00:00:53,820 --> 00:00:56,710
+So without further ado let's get started.
+
+11
+00:00:56,850 --> 00:01:05,280
+First thing you want to do is download books ready to go to get bootstrapped dot com and you can download
+
+12
+00:01:05,280 --> 00:01:06,580
+bootstrap from there.
+
+13
+00:01:09,880 --> 00:01:11,820
+And just click the button and download it.
+
+14
+00:01:11,860 --> 00:01:16,600
+I've downloaded so I'm going to show you from a distance.
+
+15
+00:01:16,660 --> 00:01:20,110
+Or we can even use the N word.
+
+16
+00:01:20,110 --> 00:01:28,140
+I think we'll come back to it later she didn't simply means that instead of let me show you just the
+
+17
+00:01:28,170 --> 00:01:36,160
+previous one it's better you will understand the style set with it here.
+
+18
+00:01:36,150 --> 00:01:40,910
+So this is how we defined in this small style set.
+
+19
+00:01:41,190 --> 00:01:43,210
+So this is how you can use bootstrap.
+
+20
+00:01:43,220 --> 00:01:51,790
+You can download the dirty faces and then you can link to your main page just like this in the head
+
+21
+00:01:51,790 --> 00:01:54,200
+section and that's all we can do.
+
+22
+00:01:54,360 --> 00:02:00,750
+But another option is to use CD and it simply means the content delivery network.
+
+23
+00:02:01,260 --> 00:02:04,770
+And if you use this one you can still use wood.
+
+24
+00:02:04,800 --> 00:02:10,620
+The thing is you don't need to download bootstrap locally and do all that stuff do it will automatically
+
+25
+00:02:11,790 --> 00:02:15,330
+work from the CDN and it is pretty good.
+
+26
+00:02:15,330 --> 00:02:24,060
+It's fast and it's perfect for the web so once you're ready to push it to the production but for development
+
+27
+00:02:24,060 --> 00:02:33,580
+Poppas it's always good to download and work with that lets down down the download and once you have
+
+28
+00:02:34,450 --> 00:02:40,020
+that ready we can start using it.
+
+29
+00:02:40,420 --> 00:02:50,240
+So here in my distro I created a folder called Bootstrap and I have downloaded the answer here.
+
+30
+00:02:50,340 --> 00:02:54,790
+So let me double click to extract it and I don't need this.
+
+31
+00:02:54,820 --> 00:03:04,960
+I'm in the mood to try and here in so you can see we have siestas farms and javascript.
+
+32
+00:03:05,110 --> 00:03:10,920
+It all comes as a bundle with bootstrap and bootstrap has it.
+
+33
+00:03:11,050 --> 00:03:13,130
+I can say with this glyph icons.
+
+34
+00:03:13,180 --> 00:03:19,600
+But when I'm going to use that we're going to use front of font or some guidance with the most popular
+
+35
+00:03:19,600 --> 00:03:25,390
+one and that's the one you see most of the people using So we'll use that.
+
+36
+00:03:25,400 --> 00:03:29,470
+Let's move it to crest and Zabol screwed.
+
+37
+00:03:29,470 --> 00:03:31,230
+We need javascript.
+
+38
+00:03:31,390 --> 00:03:38,710
+And then she says you can see we have many versions where many failed version which is good for production
+
+39
+00:03:39,190 --> 00:03:45,430
+but you can even use like I said before you can use the CD and so on.
+
+40
+00:03:45,580 --> 00:03:55,620
+Is this bootstrap would strap dirt insisted on we need we we don't mean.
+
+41
+00:03:55,680 --> 00:04:04,770
+I mean if I had more trust and let's give the team and that's what they said were more to trust.
+
+42
+00:04:05,120 --> 00:04:12,830
+So it seems right now we have CIRCE's and we have showpieces and most of the clergy is in those groups
+
+43
+00:04:12,840 --> 00:04:16,020
+who have the votes of those.
+
+44
+00:04:16,020 --> 00:04:23,330
+So what I'm going to do now is copy these files and put it here and get rid of this for us.
+
+45
+00:04:23,550 --> 00:04:26,740
+So we have a folder inside this photo.
+
+46
+00:04:26,800 --> 00:04:35,020
+He says that was when you were ready to start working on our project so close this
+
+47
+00:04:38,170 --> 00:04:46,750
+and instead let me drag this folder would send the one I just created and let me remove this folder
+
+48
+00:04:46,750 --> 00:04:58,150
+from because it was so we had bootstrap folders in default we just showed a system that was downloaded.
+
+49
+00:04:58,290 --> 00:05:10,050
+And let me create one indexed hosting.
+
+50
+00:05:10,190 --> 00:05:15,950
+So in the next lesson we will start using bootstrap and what are we going to do is we're going to redo
+
+51
+00:05:15,950 --> 00:05:18,070
+the site that we did earlier.
+
+52
+00:05:20,890 --> 00:05:27,340
+This one we're going to use book 7 try to make it beautiful and pull your response as you can see this
+
+53
+00:05:27,340 --> 00:05:34,360
+is not corresponds to the image gets caught out on the screen gets smaller and all that.
+
+54
+00:05:34,390 --> 00:05:37,930
+So you we'll all be good with words.
+
+55
+00:05:38,180 --> 00:05:41,150
+And also in the next next video.
+
+56
+00:05:41,230 --> 00:05:41,590
+Thank you.
+

@@ -1,0 +1,116 @@
+1
+00:00:02,510 --> 00:00:08,950
+Want to make it through to be able to use the Google ordinary Go for it.
+
+2
+00:00:08,960 --> 00:00:09,410
+Yes.
+
+3
+00:00:10,350 --> 00:00:13,030
+Let's open up our folder.
+
+4
+00:00:13,820 --> 00:00:27,990
+We have used this and this open with something in the world because the word we used in has to be so
+
+5
+00:00:28,330 --> 00:00:28,920
+cool.
+
+6
+00:00:28,980 --> 00:00:32,350
+So I'm going to finally get it right now.
+
+7
+00:00:33,040 --> 00:00:34,330
+It's in Birdie's
+
+8
+00:00:38,020 --> 00:00:39,380
+head had.
+
+9
+00:00:39,460 --> 00:00:42,570
+So we got this phone to use Barina.
+
+10
+00:00:42,700 --> 00:00:48,530
+Now let's go right here and that's.
+
+11
+00:00:48,640 --> 00:01:02,390
+That has to do is make heads and heads do goods give them the Marine
+
+12
+00:01:06,000 --> 00:01:10,900
+said.
+
+13
+00:01:11,600 --> 00:01:13,600
+That's just.
+
+14
+00:01:14,490 --> 00:01:19,180
+It doesn't look that great but pretty cool.
+
+15
+00:01:19,510 --> 00:01:24,770
+What we can do is let's make them
+
+16
+00:01:27,900 --> 00:01:32,920
+I want to make them bigger and we can even use inline style.
+
+17
+00:01:32,980 --> 00:01:43,180
+Sometimes it's really handy in case I'm like now we can use this bring it down.
+
+18
+00:01:43,410 --> 00:01:46,250
+Read.
+
+19
+00:01:46,500 --> 00:01:53,100
+So let's add in started they form
+
+20
+00:01:55,900 --> 00:01:56,680
+form search
+
+21
+00:01:59,710 --> 00:02:02,400
+on sizes maybe 50 books.
+
+22
+00:02:02,730 --> 00:02:07,660
+Make a nice big beautiful Gondek 456
+
+23
+00:02:11,650 --> 00:02:14,370
+or this.
+
+24
+00:02:14,450 --> 00:02:15,010
+That's me.
+
+25
+00:02:15,050 --> 00:02:17,340
+All one has to fit it.
+
+26
+00:02:25,160 --> 00:02:29,770
+We get one size fits.
+
+27
+00:02:31,990 --> 00:02:40,950
+Just give them the color and sort of thing what that all that we can take some interesting code with
+
+28
+00:02:40,970 --> 00:02:45,350
+try this.
+
+29
+00:02:52,200 --> 00:02:52,990
+This Inori.
+

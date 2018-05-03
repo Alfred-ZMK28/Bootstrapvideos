@@ -1,0 +1,160 @@
+1
+00:00:00,670 --> 00:00:03,320
+All of them it starts with fire.
+
+2
+00:00:03,760 --> 00:00:09,160
+And I can I'm going to use this for the moment but you can always give it a unique class name if you
+
+3
+00:00:09,160 --> 00:00:18,340
+want to you know or by the individual because it will be easier later on because I try to do it or be
+
+4
+00:00:18,340 --> 00:00:20,250
+lazy and do it again.
+
+5
+00:00:20,630 --> 00:00:25,830
+My I go that's them and like them my work.
+
+6
+00:00:26,110 --> 00:00:33,940
+This is the Kostner see.
+
+7
+00:00:34,080 --> 00:00:38,210
+So all of these icons have the same class in my icon.
+
+8
+00:00:38,400 --> 00:00:45,620
+And now I'm going to apply the styling to my I can apply to all these items with this class name.
+
+9
+00:00:45,730 --> 00:00:51,250
+And later if we create more class and we want to have the same effect we can simply apply this in that
+
+10
+00:00:51,420 --> 00:00:52,580
+that's it.
+
+11
+00:00:53,280 --> 00:00:55,970
+So let's try that.
+
+12
+00:00:55,980 --> 00:01:03,410
+So this one we're going to copy paste you know later and now let's try this.
+
+13
+00:01:03,750 --> 00:01:19,960
+I can in here let's give them a bigger bigger size and size 50 piece.
+
+14
+00:01:21,320 --> 00:01:25,850
+I think you need to save this file for us and then rephrase this please.
+
+15
+00:01:25,880 --> 00:01:30,040
+So just so that I don't lose this competition.
+
+16
+00:01:30,600 --> 00:01:35,950
+This is Furr's history.
+
+17
+00:01:35,980 --> 00:01:45,690
+And as you can see as soon as our blog says it says beautiful 50 pictures that looks good this could
+
+18
+00:01:45,690 --> 00:01:49,200
+be Sewanee or you can do this in not center.
+
+19
+00:01:49,200 --> 00:01:50,620
+So let's let's make it Center.
+
+20
+00:01:50,640 --> 00:01:52,740
+And that's pretty easy we would sir.
+
+21
+00:01:53,880 --> 00:01:59,930
+We can do this syndrome with the text.
+
+22
+00:02:00,530 --> 00:02:04,020
+So the whole deal is centered on the content.
+
+23
+00:02:04,960 --> 00:02:14,180
+Corporatists are going to lose it for as you can see its center as soon as I applied this thing.
+
+24
+00:02:14,290 --> 00:02:16,130
+It is Saenger beautiful.
+
+25
+00:02:16,470 --> 00:02:20,880
+OK so the next thing is now we're going to copy this.
+
+26
+00:02:20,900 --> 00:02:23,070
+She this is put in our style.
+
+27
+00:02:23,260 --> 00:02:26,110
+So it is really easy to do it live right.
+
+28
+00:02:26,610 --> 00:02:29,560
+This is a great blog and copy this is.
+
+29
+00:02:30,010 --> 00:02:32,790
+And we're going to put it in our own studies.
+
+30
+00:02:33,370 --> 00:02:35,970
+Now I think we don't have one yet.
+
+31
+00:02:43,120 --> 00:02:51,010
+Head style bootstrap would serve we don't have our let's create our link and head Tref Let's create
+
+32
+00:02:52,900 --> 00:02:57,130
+my Sternbergh see it says.
+
+33
+00:02:59,560 --> 00:03:06,840
+It's clear to insert these nice timers you find
+
+34
+00:03:11,650 --> 00:03:13,240
+we.
+
+35
+00:03:13,730 --> 00:03:24,030
+And based on that we tried earlier say we should press and beautiful.
+
+36
+00:03:24,180 --> 00:03:33,040
+So that's how we learn how to use front on some items and we learn how to use our own system.
+
+37
+00:03:33,100 --> 00:03:33,950
+Awesome.
+
+38
+00:03:34,110 --> 00:03:34,980
+All right.
+
+39
+00:03:35,100 --> 00:03:36,750
+So we'll do more in the next lesson.
+
+40
+00:03:36,750 --> 00:03:37,520
+Thank you very much.
+

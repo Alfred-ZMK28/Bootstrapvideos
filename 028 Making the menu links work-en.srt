@@ -1,0 +1,140 @@
+1
+00:00:00,680 --> 00:00:03,530
+OK so let's make these links clickable.
+
+2
+00:00:03,720 --> 00:00:04,270
+All right.
+
+3
+00:00:04,480 --> 00:00:11,260
+So you clicking Contact I want to reach to desex and contact you get them services may be destroyed
+
+4
+00:00:11,380 --> 00:00:13,990
+or services or things arguments.
+
+5
+00:00:14,220 --> 00:00:18,750
+So not index file didn't you collapse this.
+
+6
+00:00:29,900 --> 00:00:36,670
+So the first thing you want to do is let's fix this contact from where it click on the contact form.
+
+7
+00:00:36,670 --> 00:00:39,880
+We want to get to this.
+
+8
+00:00:40,880 --> 00:00:48,520
+So let's send these two up on deck.
+
+9
+00:00:49,030 --> 00:00:54,310
+And then let's this contact from this whole thing is inside this room.
+
+10
+00:00:54,330 --> 00:00:54,740
+All right.
+
+11
+00:00:54,910 --> 00:01:01,900
+So let's get this wrong idea let's give you the idea of contact.
+
+12
+00:01:02,230 --> 00:01:03,430
+Right.
+
+13
+00:01:03,580 --> 00:01:09,980
+So if you do just this like this is being called a deadline.
+
+14
+00:01:10,060 --> 00:01:13,730
+So if you do that this is good for testing when you're developing.
+
+15
+00:01:13,740 --> 00:01:22,050
+So when you do this today as we get to the same position as the skeletons.
+
+16
+00:01:22,360 --> 00:01:25,230
+So we come back to the same place and nothing happens.
+
+17
+00:01:25,470 --> 00:01:33,210
+Instead we going to use compter to the ID when people click on this link.
+
+18
+00:01:33,230 --> 00:01:40,630
+The reference is it can be like I saw the URL it can be some of those sites you know things like that
+
+19
+00:01:40,660 --> 00:01:44,560
+but in our case it does the idea of contact.
+
+20
+00:01:44,560 --> 00:01:51,970
+So once this is clicked on we're looking for a device with the idea of contact.
+
+21
+00:01:51,990 --> 00:01:54,350
+And if we find here
+
+22
+00:01:57,900 --> 00:02:01,890
+this way you get the idea of context and that's how it works.
+
+23
+00:02:01,900 --> 00:02:12,100
+Say it could reverse the biz and if you click will be taken straight to contact for you isn't it.
+
+24
+00:02:13,930 --> 00:02:24,960
+You can even give these takes to pass how you do that legs so the earlier buttons they have Button button
+
+25
+00:02:25,110 --> 00:02:29,210
+primary button danger but shucks has been in for all that.
+
+26
+00:02:29,310 --> 00:02:33,680
+And they're different colors so you can use the same format here.
+
+27
+00:02:33,810 --> 00:02:45,180
+You can say text instead of button primary you say text from here you know and see that the primer the
+
+28
+00:02:45,210 --> 00:02:48,980
+send button call you got this same color here.
+
+29
+00:02:51,980 --> 00:02:57,390
+We're going to use this to make it capsular but I'm seeing the hard coded numbers simply
+
+30
+00:03:02,990 --> 00:03:04,510
+weren't there.
+
+31
+00:03:05,240 --> 00:03:06,320
+And I said
+
+32
+00:03:13,960 --> 00:03:14,180
+you're
+
+33
+00:03:17,410 --> 00:03:23,470
+horizontal you are I really like present my simple and elegant beautiful.
+
+34
+00:03:23,670 --> 00:03:23,980
+All right.
+
+35
+00:03:23,980 --> 00:03:25,750
+So contact for me got.
+

@@ -1,0 +1,240 @@
+1
+00:00:00,730 --> 00:00:01,510
+Either.
+
+2
+00:00:01,700 --> 00:00:05,530
+We're going back to bootstrap to yet another video.
+
+3
+00:00:05,920 --> 00:00:08,980
+And so far we did quite a lot.
+
+4
+00:00:08,980 --> 00:00:11,610
+We have beautiful navigation.
+
+5
+00:00:11,790 --> 00:00:13,370
+We have the images.
+
+6
+00:00:13,370 --> 00:00:17,800
+Recently we did a bit of a I can box kind of thing.
+
+7
+00:00:17,850 --> 00:00:20,610
+We have the list contact forms.
+
+8
+00:00:20,640 --> 00:00:29,550
+And there are a lot more components you can use and you can always visit bootstrap and learn more about
+
+9
+00:00:29,550 --> 00:00:30,050
+them.
+
+10
+00:00:30,300 --> 00:00:33,930
+But basically we going to go almost everything we did quite a lot.
+
+11
+00:00:34,040 --> 00:00:41,490
+And so of the cool stuff I'm going to Carwin in two upcoming videos such as in this video I'm going
+
+12
+00:00:41,490 --> 00:00:44,530
+to cover how you can use scrolls spy.
+
+13
+00:00:44,820 --> 00:00:45,950
+So what does that is.
+
+14
+00:00:45,950 --> 00:00:52,960
+When we scroll like this is the services space in his basement but that's what it is.
+
+15
+00:00:52,960 --> 00:00:54,450
+And this is a contact.
+
+16
+00:00:54,480 --> 00:01:03,240
+So when he's calling what if we want to highlight this segment like if we are in the services sector
+
+17
+00:01:03,240 --> 00:01:09,750
+we want to highlight this and if we are in the contact six in our contact link and we want to highlight
+
+18
+00:01:09,750 --> 00:01:10,290
+this link.
+
+19
+00:01:10,290 --> 00:01:11,640
+So how do we do that.
+
+20
+00:01:11,830 --> 00:01:16,490
+And know we can do that using scrolls 5 and that is super easy.
+
+21
+00:01:16,590 --> 00:01:19,250
+So that's one of the amazing things.
+
+22
+00:01:19,530 --> 00:01:21,810
+So search for treasure
+
+23
+00:01:24,840 --> 00:01:25,710
+scrolls by
+
+24
+00:01:28,970 --> 00:01:34,910
+and we can go to official site or we can even go to those three schools there are quite a lot of useful
+
+25
+00:01:34,910 --> 00:01:35,940
+examples.
+
+26
+00:01:36,080 --> 00:01:39,920
+And you know you can always come here for reference.
+
+27
+00:01:39,920 --> 00:01:41,990
+Pretty good list for that.
+
+28
+00:01:42,260 --> 00:01:44,160
+And as you can see you can you can try it.
+
+29
+00:01:44,150 --> 00:01:51,770
+Select the section one and just scroll it goes 6 and B and so on and so on.
+
+30
+00:01:52,220 --> 00:01:54,900
+So how do we do that.
+
+31
+00:01:54,890 --> 00:01:56,550
+It's pretty let's.
+
+32
+00:01:56,600 --> 00:02:04,370
+This is the examples of people trying to in order to have here
+
+33
+00:02:07,310 --> 00:02:11,930
+is this special class that I Spy and the name scrawled.
+
+34
+00:02:12,220 --> 00:02:15,990
+And what does it target this one targets the number.
+
+35
+00:02:16,470 --> 00:02:19,950
+So we have the navigation with the class name of nav bar.
+
+36
+00:02:20,140 --> 00:02:20,870
+OK.
+
+37
+00:02:20,910 --> 00:02:28,710
+So as long as we have this class name for the navigation and inside this navigation we should have the
+
+38
+00:02:28,830 --> 00:02:37,860
+buildings obviously represent all the links that we want to have is great and that is all we need is
+
+39
+00:02:37,860 --> 00:02:45,210
+this bit of code that a spy school and that's target the name of the number is number.
+
+40
+00:02:45,390 --> 00:02:46,830
+So look let's copy it isn't
+
+41
+00:02:49,580 --> 00:02:51,580
+like two days.
+
+42
+00:02:51,660 --> 00:02:58,340
+And as you can see at the moment it's suppressed nothing's happening.
+
+43
+00:02:58,500 --> 00:03:00,850
+Doesn't matter where we are nothing's said.
+
+44
+00:03:01,230 --> 00:03:03,490
+Let's try.
+
+45
+00:03:03,540 --> 00:03:12,310
+So we're in our index corts DIMA all we need to do is you know our body into the body don't we need
+
+46
+00:03:12,310 --> 00:03:12,720
+to.
+
+47
+00:03:12,740 --> 00:03:13,970
+It's not a spike.
+
+48
+00:03:13,970 --> 00:03:16,310
+Scroll down to target number.
+
+49
+00:03:16,400 --> 00:03:21,960
+So we have a number we targeting these navigation class.
+
+50
+00:03:22,190 --> 00:03:29,030
+So it automatically digs in with a page whichever deep we are on equal.
+
+51
+00:03:29,400 --> 00:03:35,610
+So good typical first as you can see we are in the context of
+
+52
+00:03:40,770 --> 00:03:52,450
+writing about where in the about when the services were in the country and as we scroll and see the
+
+53
+00:03:52,630 --> 00:03:55,340
+it does seem pretty good right.
+
+54
+00:03:58,110 --> 00:03:59,700
+See the last deal.
+
+55
+00:04:00,060 --> 00:04:01,540
+The names for that the
+
+56
+00:04:04,350 --> 00:04:13,210
+date from and we don't have any link we can create another link for this one as if we want to lately.
+
+57
+00:04:13,480 --> 00:04:17,430
+So this is how you can implement this beautiful feature.
+
+58
+00:04:17,430 --> 00:04:18,230
+Cool right.
+
+59
+00:04:18,360 --> 00:04:21,650
+OK let's do some more cool stuff in the next video.
+
+60
+00:04:21,730 --> 00:04:22,460
+Thank you.
+

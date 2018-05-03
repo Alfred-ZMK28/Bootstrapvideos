@@ -1,0 +1,340 @@
+1
+00:00:00,750 --> 00:00:08,270
+So we have our menu which looks pretty good but the problem is when we make it small it looks good but
+
+2
+00:00:08,360 --> 00:00:09,880
+when we click it doesn't work.
+
+3
+00:00:10,100 --> 00:00:12,260
+So how do we fix that.
+
+4
+00:00:12,740 --> 00:00:20,500
+For that to work we need to include javascript which haven't included yet.
+
+5
+00:00:20,780 --> 00:00:27,620
+So what you have is when we downard would serve obviously we got the days folder and inside this folder
+
+6
+00:00:27,620 --> 00:00:32,920
+we have bootstrap the data is all we can use manufacturers.
+
+7
+00:00:33,380 --> 00:00:37,720
+So we have to link to one of these and we can.
+
+8
+00:00:37,850 --> 00:00:41,900
+We need to use Indic query as well.
+
+9
+00:00:42,380 --> 00:00:51,320
+So let me hard decide what I'm going to do is all these scripts put it right before the end of the body
+
+10
+00:00:52,220 --> 00:00:55,160
+so that the page renders pretty well.
+
+11
+00:00:55,430 --> 00:01:02,530
+And then the script or otherwise it will delay the learning process of the base.
+
+12
+00:01:02,870 --> 00:01:07,840
+So always keep it right before the end of the body type of a script.
+
+13
+00:01:08,180 --> 00:01:13,820
+So what I'm going to do is I'm going to use the include the script for booths for
+
+14
+00:01:17,050 --> 00:01:21,690
+these service is.
+
+15
+00:01:22,510 --> 00:01:27,320
+So Sanjay is less mature.
+
+16
+00:01:27,490 --> 00:01:28,780
+Yes.
+
+17
+00:01:29,210 --> 00:01:30,130
+Yes.
+
+18
+00:01:30,430 --> 00:01:33,010
+Yes that's right.
+
+19
+00:01:33,810 --> 00:01:41,200
+And we are in a crucial period that we can get that degree is meaningful.
+
+20
+00:01:41,210 --> 00:01:43,310
+Let's take the minute that was in the
+
+21
+00:01:46,350 --> 00:01:46,700
+here
+
+22
+00:01:51,300 --> 00:01:53,000
+and you can do the same for Bush.
+
+23
+00:01:53,000 --> 00:01:59,610
+So you can include from Sealion but since we have always done let's use that word is easy to use from
+
+24
+00:01:59,610 --> 00:02:00,320
+the scene.
+
+25
+00:02:00,320 --> 00:02:01,270
+It's pretty good.
+
+26
+00:02:01,350 --> 00:02:04,520
+It's fast for folks inside as well.
+
+27
+00:02:05,120 --> 00:02:15,170
+Let's let's see if it works for us.
+
+28
+00:02:17,580 --> 00:02:20,380
+Let's use from Syria and so they agree.
+
+29
+00:02:20,480 --> 00:02:30,990
+And so we are using both from Syria and latest compile and in hindsight was Kovi was probably an Egan
+
+30
+00:02:31,000 --> 00:02:31,250
+day.
+
+31
+00:02:31,270 --> 00:02:36,030
+All these so you don't even have to worry world.
+
+32
+00:02:36,030 --> 00:02:40,210
+But let's try this again sir.
+
+33
+00:02:40,550 --> 00:02:49,160
+So we included the query from the CDC and we included bootstrap javascript also from the official side
+
+34
+00:02:49,170 --> 00:02:50,070
+city.
+
+35
+00:02:50,780 --> 00:02:53,810
+And we put it right before our task.
+
+36
+00:02:53,870 --> 00:02:57,290
+Now let's try if it works for us.
+
+37
+00:02:59,250 --> 00:03:03,010
+Small and beautiful works beautifully.
+
+38
+00:03:04,210 --> 00:03:05,410
+That's awesome.
+
+39
+00:03:05,430 --> 00:03:07,700
+That is what we can do next.
+
+40
+00:03:07,700 --> 00:03:12,410
+Let's actually let's treat this styling.
+
+41
+00:03:12,500 --> 00:03:19,440
+The one we had here this one so let's switch to ZDF and see how it works.
+
+42
+00:03:19,900 --> 00:03:20,730
+Remember that
+
+43
+00:03:24,440 --> 00:03:27,250
+for some we are already using machine that's fine.
+
+44
+00:03:27,320 --> 00:03:36,550
+And the only local stylesheet is this hour my style and everything we use from the CD.
+
+45
+00:03:37,260 --> 00:03:41,660
+I mean let's try to dig more with the team.
+
+46
+00:03:41,660 --> 00:03:42,750
+I think that's the
+
+47
+00:03:45,990 --> 00:03:46,250
+it's
+
+48
+00:03:51,750 --> 00:03:59,180
+head Six looks a bit messy but it's not going to be worth it just the links for she didn't from the
+
+49
+00:03:59,260 --> 00:04:00,460
+officials.
+
+50
+00:04:00,800 --> 00:04:04,190
+Now friends.
+
+51
+00:04:04,310 --> 00:04:05,170
+All right.
+
+52
+00:04:05,310 --> 00:04:06,040
+Yeah.
+
+53
+00:04:06,190 --> 00:04:08,290
+Everything looks perfectly beautiful.
+
+54
+00:04:09,190 --> 00:04:14,950
+Now one more thing I want to fix is I really like these curved curved thing here.
+
+55
+00:04:14,970 --> 00:04:15,920
+I want to make it straight.
+
+56
+00:04:15,970 --> 00:04:19,480
+Let's let's do that.
+
+57
+00:04:19,530 --> 00:04:22,250
+So this is obviously the nab right.
+
+58
+00:04:24,260 --> 00:04:27,390
+It's kinsman's solids tarradiddle.
+
+59
+00:04:28,030 --> 00:04:31,570
+So I'm sure you are you comfortable with this navigation right.
+
+60
+00:04:31,720 --> 00:04:41,010
+The secret here is the detail that the secret here is how this hamburger menu this will item.
+
+61
+00:04:41,330 --> 00:04:44,120
+How does it represent the the actual man.
+
+62
+00:04:44,120 --> 00:04:45,050
+How does it know.
+
+63
+00:04:45,200 --> 00:04:47,760
+That's the thing.
+
+64
+00:04:48,080 --> 00:04:50,670
+That's how it does is.
+
+65
+00:04:50,690 --> 00:04:52,060
+And he's into this deal.
+
+66
+00:04:52,430 --> 00:04:56,390
+We have this button and all these lines for a second third.
+
+67
+00:04:56,390 --> 00:04:57,940
+These are just the lines.
+
+68
+00:04:58,100 --> 00:05:02,700
+If you remove that save it and go and the first is lower.
+
+69
+00:05:02,840 --> 00:05:05,570
+So it just the line I can you.
+
+70
+00:05:05,960 --> 00:05:17,880
+So these ones they are inside this button and this button has the data toggle class and another target
+
+71
+00:05:18,230 --> 00:05:21,050
+and the target is this thing.
+
+72
+00:05:21,500 --> 00:05:23,860
+But for example number collapsed.
+
+73
+00:05:23,930 --> 00:05:25,970
+And that is exactly the same I.D..
+
+74
+00:05:26,060 --> 00:05:34,270
+Remember this hash tag we use for ID and this data we use for class processes.
+
+75
+00:05:34,520 --> 00:05:44,900
+So this button with this spend Marsch it's targeting the actual navigation which is this which is in
+
+76
+00:05:44,990 --> 00:05:46,690
+this deep.
+
+77
+00:05:46,870 --> 00:05:51,470
+And as you can see beares example net net collapse one.
+
+78
+00:05:51,700 --> 00:05:54,380
+And here is exactly the same.
+
+79
+00:05:54,390 --> 00:05:55,690
+So this is how it works.
+
+80
+00:05:55,720 --> 00:06:00,110
+This bottom how it how that's how it goes to control this one.
+
+81
+00:06:00,130 --> 00:06:16,970
+For simplicity let's say let's say in many senses is can gift you have made carbon copy and start again.
+
+82
+00:06:17,030 --> 00:06:26,330
+So let's send this to him Logan fix this border radius and let's fry them in live here.
+
+83
+00:06:26,340 --> 00:06:27,970
+This is pretty cool.
+
+84
+00:06:30,160 --> 00:06:34,850
+Border radios are a big.
+
+85
+00:06:36,070 --> 00:06:43,610
+It's Corbie this thing and let's put it inside our systems.
+

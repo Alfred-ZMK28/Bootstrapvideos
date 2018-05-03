@@ -1,0 +1,340 @@
+1
+00:00:00,210 --> 00:00:06,300
+As you can see there's a slight difference because once you apply a Jumbotron it gives a different from
+
+2
+00:00:06,300 --> 00:00:07,530
+styling and all of this.
+
+3
+00:00:07,590 --> 00:00:10,050
+And then the normal one looks very different.
+
+4
+00:00:10,050 --> 00:00:14,940
+So know we can always override this what looks pretty great at the moment that's the benefit of using
+
+5
+00:00:14,940 --> 00:00:15,800
+too much fun.
+
+6
+00:00:16,050 --> 00:00:18,250
+So make it stand out.
+
+7
+00:00:18,720 --> 00:00:19,650
+So that's good.
+
+8
+00:00:19,650 --> 00:00:30,350
+So we have image we have the text now this in now let's say let's let's imagine that it was web based
+
+9
+00:00:30,350 --> 00:00:30,980
+forums.
+
+10
+00:00:30,980 --> 00:00:37,070
+Travel Agent or travel site or something like that so maybe we want to show something is a button that
+
+11
+00:00:37,070 --> 00:00:40,490
+says Book.
+
+12
+00:00:40,490 --> 00:00:42,400
+Book 2 or something like that.
+
+13
+00:00:42,410 --> 00:00:43,390
+How do you do that.
+
+14
+00:00:43,400 --> 00:00:50,480
+It's it's pretty straightforward with words so it's really easy to create beautiful buttons.
+
+15
+00:00:50,480 --> 00:00:52,960
+Let me show you one.
+
+16
+00:00:53,270 --> 00:01:00,460
+We have a paragraph and after this paragraph let's say we only queried about some bottom up.
+
+17
+00:01:00,650 --> 00:01:08,440
+We are always open and close the bottom to the button and then said Here let's get to class without
+
+18
+00:01:08,440 --> 00:01:09,880
+class them let's have a look at it
+
+19
+00:01:15,730 --> 00:01:17,170
+too.
+
+20
+00:01:18,220 --> 00:01:21,940
+So this is how it looks without class any class.
+
+21
+00:01:22,210 --> 00:01:27,940
+And this is already using words so it doesn't look this good as it doesn't look that good.
+
+22
+00:01:28,300 --> 00:01:31,370
+But let's play some would show us
+
+23
+00:01:34,240 --> 00:01:41,380
+let's give it a class name of button always you actually start with button and then button dust's primary
+
+24
+00:01:42,110 --> 00:01:44,800
+and there are many different classes in there.
+
+25
+00:01:48,120 --> 00:01:54,640
+They have I think six class names they call primary danger that has a red color.
+
+26
+00:01:55,020 --> 00:01:56,040
+That's danger.
+
+27
+00:01:56,050 --> 00:01:57,490
+Another one is sukses.
+
+28
+00:01:57,490 --> 00:01:59,330
+Another one is there are quite a lot.
+
+29
+00:01:59,330 --> 00:02:00,830
+We can have a look at them.
+
+30
+00:02:02,410 --> 00:02:08,440
+One prominent one such info and their stuff like that we can come back to it later.
+
+31
+00:02:08,440 --> 00:02:12,450
+Let's let's these folks in this modern primary.
+
+32
+00:02:12,490 --> 00:02:15,740
+Let's have a look how it looks for first.
+
+33
+00:02:15,750 --> 00:02:21,390
+And as you can see spiritually as well Joe Johns is learning.
+
+34
+00:02:21,430 --> 00:02:23,650
+And that looks beautiful.
+
+35
+00:02:24,730 --> 00:02:25,220
+Organ.
+
+36
+00:02:25,290 --> 00:02:27,000
+So this far it's looking good.
+
+37
+00:02:27,010 --> 00:02:29,210
+Let's let's continue this one.
+
+38
+00:02:30,480 --> 00:02:36,550
+The next thing let's create some lists.
+
+39
+00:02:37,850 --> 00:02:40,670
+What to do it because I'm all human small screen.
+
+40
+00:02:40,970 --> 00:02:46,260
+I'm going to collapse this as soon as I can see the whole way and see this.
+
+41
+00:02:46,680 --> 00:02:50,530
+He's clicking this arrow and it collapses again.
+
+42
+00:02:50,640 --> 00:02:56,480
+So we have the mindif contained a fluid inside that we are working with this inside this row.
+
+43
+00:02:56,640 --> 00:02:57,050
+Great.
+
+44
+00:02:57,060 --> 00:02:59,320
+Another day.
+
+45
+00:02:59,520 --> 00:03:06,600
+And let's create do clone more
+
+46
+00:03:12,860 --> 00:03:16,420
+and we want to create some list dives right.
+
+47
+00:03:18,410 --> 00:03:20,260
+Ordered lists.
+
+48
+00:03:22,040 --> 00:03:32,980
+Page three Weren't you the most memorable takes center here.
+
+49
+00:03:33,830 --> 00:03:36,680
+Some creation.
+
+50
+00:03:36,980 --> 00:03:49,250
+So at least we do know the list you know and then that would serve as a class name for this class list
+
+51
+00:03:49,660 --> 00:03:50,040
+group
+
+52
+00:03:53,350 --> 00:04:00,780
+and waiting list would call you of interest group.
+
+53
+00:04:00,820 --> 00:04:01,380
+Right.
+
+54
+00:04:01,390 --> 00:04:02,900
+And so yeah.
+
+55
+00:04:03,100 --> 00:04:07,580
+So it started with a list group and then group item.
+
+56
+00:04:07,620 --> 00:04:11,500
+So want to get it straight after after a while you'd be comfortable with this.
+
+57
+00:04:11,780 --> 00:04:13,230
+And let's create some
+
+58
+00:04:39,870 --> 00:04:48,330
+looks the first and you can see the list is rendered beautifully how good it looks.
+
+59
+00:04:48,780 --> 00:04:50,280
+Let's make it a bit more interesting.
+
+60
+00:04:50,280 --> 00:04:53,050
+Let's make it.
+
+61
+00:04:53,070 --> 00:04:58,700
+All I wanna do is I don't want it destroyed all the way from here to here from right to left.
+
+62
+00:04:58,700 --> 00:05:02,490
+I want it to be somewhere in the Middle East here in the center.
+
+63
+00:05:02,660 --> 00:05:03,830
+So how do you do that.
+
+64
+00:05:03,990 --> 00:05:11,170
+Let me say we have to deal with the code taking the full with trust.
+
+65
+00:05:11,310 --> 00:05:17,050
+So instead of what I can do is I can put all these elements inside another column.
+
+66
+00:05:17,140 --> 00:05:19,800
+Let's copy that so that we can this.
+
+67
+00:05:19,980 --> 00:05:25,500
+Let's create some divs Let's create call them.
+
+68
+00:05:25,540 --> 00:05:27,960
+In fact I would say easily.
+
+69
+00:05:28,330 --> 00:05:28,820
+OK.
+
+70
+00:05:28,870 --> 00:05:35,300
+So we had we have these we'll call them grid.
+
+71
+00:05:35,330 --> 00:05:38,920
+What I'm going to do is I'm going to use only six.
+
+72
+00:05:38,960 --> 00:05:42,290
+And what about the rest of the six because we have to always make it to work.
+
+73
+00:05:42,290 --> 00:05:50,020
+So what are you going to do is call them small or set free.
+
+74
+00:05:50,030 --> 00:05:58,640
+Now what this really do is it will take the six call and then the rest of the both the right and left
+
+75
+00:05:58,760 --> 00:06:01,340
+side it will offset three.
+
+76
+00:06:01,460 --> 00:06:06,190
+So on the right three on the left three it will offset.
+
+77
+00:06:06,200 --> 00:06:10,940
+So right 3 and three six plus six.
+
+78
+00:06:10,970 --> 00:06:16,550
+So that's how it works so now that our content will be centralized center in the middle and it will
+
+79
+00:06:16,550 --> 00:06:20,630
+have the offshoot columns 3 and 3 on both side.
+
+80
+00:06:20,660 --> 00:06:32,450
+So we are as you can see here this side of offered 3 3 kobun this side of it in the middle six column
+
+81
+00:06:32,800 --> 00:06:36,470
+and it is taking place we the.
+
+82
+00:06:36,550 --> 00:06:43,880
+So this is how you can use both circuits really form and we can do a lot more.
+
+83
+00:06:44,180 --> 00:06:46,020
+We're going to be very creative with this.
+
+84
+00:06:46,250 --> 00:06:49,200
+So we'll do more with bootstrap in the next video.
+
+85
+00:06:49,250 --> 00:06:50,210
+Thank you.
+

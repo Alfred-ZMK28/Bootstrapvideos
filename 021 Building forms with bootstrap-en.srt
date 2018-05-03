@@ -1,0 +1,248 @@
+1
+00:00:00,430 --> 00:00:07,030
+Or let's continue with farms would farms are one of the best features of the woodshed.
+
+2
+00:00:07,140 --> 00:00:10,410
+It's really easy to work with forms.
+
+3
+00:00:10,620 --> 00:00:15,210
+So what are you going to do is let's create some forms and submit
+
+4
+00:00:22,030 --> 00:00:28,850
+it so we have this div let's collapse this as well let's quit.
+
+5
+00:00:31,710 --> 00:00:35,990
+Did you.
+
+6
+00:00:36,660 --> 00:00:36,900
+The
+
+7
+00:00:41,640 --> 00:00:47,550
+paint as an asset to
+
+8
+00:01:01,010 --> 00:01:02,660
+farms in Bootstrap.
+
+9
+00:01:03,070 --> 00:01:06,520
+It's creative.
+
+10
+00:01:08,320 --> 00:01:17,480
+To name some form of control that's a bootstrap class inside.
+
+11
+00:01:17,820 --> 00:01:19,800
+Instead we created.
+
+12
+00:01:20,300 --> 00:01:25,230
+You form with a class name form control.
+
+13
+00:01:25,220 --> 00:01:34,440
+And we created did we get a last name of form group and instead of let's call it
+
+14
+00:01:38,440 --> 00:01:48,200
+name that we call the let's call it the and then field text
+
+15
+00:01:53,450 --> 00:01:57,730
+class will the form control.
+
+16
+00:01:57,740 --> 00:02:04,020
+So we created we didn't need to do with any.
+
+17
+00:02:05,120 --> 00:02:09,330
+We just create a form and then inside form we create a DB.
+
+18
+00:02:09,650 --> 00:02:18,480
+The first DB will have in full field of in-fill filled with the type of text and it will have a label
+
+19
+00:02:18,780 --> 00:02:22,060
+called names so people understand what it's about.
+
+20
+00:02:22,140 --> 00:02:23,590
+Let's do the same.
+
+21
+00:02:23,590 --> 00:02:31,280
+It's copy and paste mean email Prosor.
+
+22
+00:02:31,660 --> 00:02:33,960
+You go to
+
+23
+00:02:38,260 --> 00:02:38,490
+I
+
+24
+00:02:42,180 --> 00:02:49,810
+got the last word don't last for.
+
+25
+00:02:49,840 --> 00:02:57,730
+And finally let's create I'M BORED BORED BORED.
+
+26
+00:02:57,890 --> 00:03:05,670
+For all those you named some literary
+
+27
+00:03:09,290 --> 00:03:10,300
+looks pretty good.
+
+28
+00:03:10,610 --> 00:03:13,840
+So we have fun and people can fill in the name.
+
+29
+00:03:13,850 --> 00:03:21,290
+E-mail us or as you can see we are Blagden Embassador so it doesn't it obviously.
+
+30
+00:03:21,340 --> 00:03:28,750
+So it has and then comes name and possibly comes and submit.
+
+31
+00:03:28,760 --> 00:03:30,170
+No it looks a bit odd.
+
+32
+00:03:30,320 --> 00:03:34,030
+That's because wasn't in full.
+
+33
+00:03:34,030 --> 00:03:35,690
+Now let's try it here.
+
+34
+00:03:35,750 --> 00:03:37,290
+That's prober.
+
+35
+00:03:37,370 --> 00:03:39,170
+So this is how it looks.
+
+36
+00:03:39,170 --> 00:03:40,190
+Looks pretty good.
+
+37
+00:03:40,220 --> 00:03:44,240
+Prom's in Butcher really easy and beautiful.
+
+38
+00:03:44,240 --> 00:03:47,020
+How about the one we did here.
+
+39
+00:03:47,090 --> 00:03:49,870
+We have the radio button checkbox.
+
+40
+00:03:49,880 --> 00:03:51,450
+Let's try them out too.
+
+41
+00:03:51,980 --> 00:03:52,640
+Let's do that.
+
+42
+00:03:52,730 --> 00:03:55,650
+Let's do the same.
+
+43
+00:03:56,380 --> 00:04:04,390
+So let's create another deep.
+
+44
+00:04:04,540 --> 00:04:12,570
+We don't need the input fill in soon to have them here label and then we will put you in put.
+
+45
+00:04:12,610 --> 00:04:12,880
+Type
+
+46
+00:04:20,380 --> 00:04:21,510
+said.
+
+47
+00:04:22,130 --> 00:04:27,470
+It's you name so names should be in the label.
+
+48
+00:04:27,470 --> 00:04:32,960
+This is just the input field name we can call it what are we going to call it.
+
+49
+00:04:34,150 --> 00:04:36,690
+It's going to be
+
+50
+00:04:42,720 --> 00:04:43,420
+one.
+
+51
+00:04:44,210 --> 00:04:50,760
+So people are going to say this is the same for worry about
+
+52
+00:04:53,600 --> 00:04:53,920
+you
+
+53
+00:04:57,930 --> 00:04:58,470
+and me
+
+54
+00:05:02,210 --> 00:05:04,360
+Ray.
+
+55
+00:05:04,720 --> 00:05:09,650
+So this is how easy it is to work with friends in books.
+
+56
+00:05:10,180 --> 00:05:15,810
+And now we can give a different class name to buttons.
+
+57
+00:05:16,250 --> 00:05:16,990
+We can give
+
+58
+00:05:21,470 --> 00:05:25,660
+success and looks different.
+
+59
+00:05:25,670 --> 00:05:36,670
+We already tried primary here so is and begin doing x ray.
+
+60
+00:05:37,040 --> 00:05:40,030
+And that's that's how it works.
+
+61
+00:05:40,160 --> 00:05:42,800
+We learn how to create a function which is pretty cool.
+
+62
+00:05:42,800 --> 00:05:45,350
+And we do more stuff in the next lesson.
+

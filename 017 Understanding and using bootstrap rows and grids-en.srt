@@ -1,0 +1,204 @@
+1
+00:00:00,360 --> 00:00:03,690
+Get started it's let me open up my text editor.
+
+2
+00:00:03,720 --> 00:00:09,360
+OK so we created index file and here.
+
+3
+00:00:09,970 --> 00:00:12,260
+So this is our biggest.
+
+4
+00:00:12,290 --> 00:00:18,860
+Hello world and some stuff let's go with that first we need to degrade Dr.
+
+5
+00:00:26,690 --> 00:00:30,120
+head and insert head six and it's quite
+
+6
+00:00:37,180 --> 00:00:40,920
+stra and it's quite boring.
+
+7
+00:00:44,550 --> 00:00:52,210
+You know we need to link all this see a ceasefire so let's get a link.
+
+8
+00:00:52,450 --> 00:01:00,930
+So we are going to think here see as his services for seniors is
+
+9
+00:01:04,660 --> 00:01:13,510
+we'll a policy that says we should be ready to start using will triple-X dried out so would show how
+
+10
+00:01:13,510 --> 00:01:19,560
+it works is we create the first thing we create is a container div.
+
+11
+00:01:20,070 --> 00:01:21,560
+It's good idea.
+
+12
+00:01:21,950 --> 00:01:30,370
+And then inside indeed we created a class called contenta.
+
+13
+00:01:30,380 --> 00:01:31,670
+This is a strip class.
+
+14
+00:01:31,670 --> 00:01:32,980
+I'm just making it up.
+
+15
+00:01:32,990 --> 00:01:39,300
+This is the butcher class and using whatever it it's all about using their their class name.
+
+16
+00:01:39,770 --> 00:01:45,790
+So they had they had different writers Their them and we used that to argue what are we trying to achieve.
+
+17
+00:01:45,800 --> 00:01:51,280
+And we can obviously read more about it in official site.
+
+18
+00:01:51,560 --> 00:01:58,670
+However this discourse prevailed for all that because it can be overwhelming in the beginning.
+
+19
+00:01:58,670 --> 00:02:00,170
+So you'll be good with me.
+
+20
+00:02:00,170 --> 00:02:02,970
+And then later on THE NEXT go more obviously.
+
+21
+00:02:03,270 --> 00:02:07,270
+So the first thing you want to do is clear deal with the container.
+
+22
+00:02:07,490 --> 00:02:13,520
+So inside this container we will put everything into the world you want first is we need to create a
+
+23
+00:02:13,520 --> 00:02:18,540
+role for us not to deal with the class of Roe.
+
+24
+00:02:18,670 --> 00:02:24,870
+And so Roy is like like I'm all the way from right to left.
+
+25
+00:02:24,890 --> 00:02:27,230
+Now inter-sex that's true.
+
+26
+00:02:27,570 --> 00:02:36,360
+So inside Roe we might want many sex and we might want one two three many sex and so gay would set rules
+
+27
+00:02:36,750 --> 00:02:46,940
+are Rose must be be our must have total of 12 Kolb's 12 Quillen.
+
+28
+00:02:47,040 --> 00:02:48,390
+That's what they call it.
+
+29
+00:02:48,850 --> 00:03:01,270
+So inside Roe we can create columns we can create one column and give it class name of call them small
+
+30
+00:03:01,530 --> 00:03:04,680
+talk like that.
+
+31
+00:03:04,790 --> 00:03:08,700
+So this is the most basic of bootstrap.
+
+32
+00:03:08,700 --> 00:03:10,820
+You create a can deal with the content.
+
+33
+00:03:11,050 --> 00:03:18,290
+And then that is really the main content of that whole everything inside this company you'll create
+
+34
+00:03:18,350 --> 00:03:21,040
+a row and you can have many rows.
+
+35
+00:03:21,190 --> 00:03:29,750
+So we create the first row and we want to have some content inside there so that our content will have
+
+36
+00:03:29,750 --> 00:03:35,880
+the full width pro-coal we can't have more than 12 column in one row.
+
+37
+00:03:36,440 --> 00:03:42,940
+What we can have meaning small columns that really are total to true.
+
+38
+00:03:43,090 --> 00:03:49,630
+So if you don't want just one column of 12 you can create many but we'll come back to that later.
+
+39
+00:03:49,740 --> 00:03:53,720
+OK so this is the so called them small tool.
+
+40
+00:03:53,800 --> 00:03:57,830
+It all worked beautifully for us and on the screen as well.
+
+41
+00:03:58,090 --> 00:04:03,360
+And later I will show you again that medium and large and I'll show you how that was too.
+
+42
+00:04:03,670 --> 00:04:05,360
+So to start with.
+
+43
+00:04:06,400 --> 00:04:08,020
+Let's let's try something here.
+
+44
+00:04:08,030 --> 00:04:10,030
+Let's ride Hatoum
+
+45
+00:04:15,220 --> 00:04:23,170
+low or save it and let's try it out let's open this browser.
+
+46
+00:04:23,190 --> 00:04:24,840
+And as you can see.
+
+47
+00:04:25,560 --> 00:04:26,760
+Hello world.
+
+48
+00:04:26,790 --> 00:04:28,560
+Because we are already using bootstrap.
+
+49
+00:04:28,560 --> 00:04:35,260
+You can see the different the different looks with different ways of bootstrap specific font.
+
+50
+00:04:35,520 --> 00:04:40,310
+And you can see for batting on the left side and all this.
+
+51
+00:04:40,350 --> 00:04:43,950
+So we have already used words for.
+

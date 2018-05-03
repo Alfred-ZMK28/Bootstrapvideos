@@ -1,0 +1,396 @@
+1
+00:00:00,450 --> 00:00:07,680
+Hokus let's add a background image for with a fixed background image to start with this section.
+
+2
+00:00:07,960 --> 00:00:13,660
+So the first thing that's good to our services.
+
+3
+00:00:13,890 --> 00:00:21,460
+DB The one that may collapse this one.
+
+4
+00:00:21,650 --> 00:00:23,000
+This one is blockquote.
+
+5
+00:00:23,000 --> 00:00:25,060
+Let me collapse this as well.
+
+6
+00:00:25,930 --> 00:00:28,910
+And this is the table that collapsed this
+
+7
+00:00:31,960 --> 00:00:33,030
+this is from
+
+8
+00:00:38,180 --> 00:00:39,610
+and this is the services.
+
+9
+00:00:39,690 --> 00:00:45,510
+This is normally interested in working.
+
+10
+00:00:45,890 --> 00:00:46,130
+So
+
+11
+00:00:51,260 --> 00:00:56,080
+it has that idea of services like.
+
+12
+00:00:56,210 --> 00:00:59,350
+So let's use this idea.
+
+13
+00:00:59,980 --> 00:01:02,800
+We don't need all these guys who can use ideas will submit.
+
+14
+00:01:02,860 --> 00:01:04,880
+Let's use the copy
+
+15
+00:01:11,900 --> 00:01:23,930
+and let's try it so we can use this because we use the data with ID has services.
+
+16
+00:01:24,910 --> 00:01:31,090
+And what we want to do is in this deal with the class name ID name services we want to use the background
+
+17
+00:01:31,090 --> 00:01:32,050
+image.
+
+18
+00:01:32,640 --> 00:01:41,230
+So there is a serious class for using background images which is as you go Simmons's background color
+
+19
+00:01:41,250 --> 00:01:45,770
+is back on Amy's background.
+
+20
+00:01:46,150 --> 00:01:52,120
+And then we supply the you again your parenthesis.
+
+21
+00:01:52,150 --> 00:01:58,090
+And inside we give the address in double quotation marks.
+
+22
+00:01:58,090 --> 00:02:02,920
+So let's do that for you don't you.
+
+23
+00:02:10,910 --> 00:02:12,950
+Insert image is.
+
+24
+00:02:14,470 --> 00:02:16,990
+And there is a beautiful
+
+25
+00:02:19,920 --> 00:02:21,370
+right.
+
+26
+00:02:21,710 --> 00:02:22,760
+That's good.
+
+27
+00:02:22,760 --> 00:02:25,870
+Some more images.
+
+28
+00:02:28,590 --> 00:02:34,290
+Yeah I was not sure I know it looks no.
+
+29
+00:02:36,150 --> 00:02:37,180
+No it's
+
+30
+00:02:43,700 --> 00:02:44,430
+cute it's it's
+
+31
+00:02:47,880 --> 00:02:51,030
+so it is taking just enough space for this content.
+
+32
+00:02:51,030 --> 00:02:54,140
+If you have bigger more content it looks great.
+
+33
+00:02:54,330 --> 00:02:56,370
+So this is all we want at the moment.
+
+34
+00:02:56,370 --> 00:03:02,190
+It looks actually pretty good with this deep blue it and slowly and light.
+
+35
+00:03:02,290 --> 00:03:03,900
+It's good.
+
+36
+00:03:03,980 --> 00:03:12,110
+What I'm going to do is reduce the margin so that it's going to act as it's designed by a margin of
+
+37
+00:03:13,920 --> 00:03:14,970
+two or three beats
+
+38
+00:03:18,360 --> 00:03:22,990
+and there's 20 for tonight.
+
+39
+00:03:23,390 --> 00:03:26,650
+And that's 30 over
+
+40
+00:03:31,400 --> 00:03:33,100
+that salute beautiful.
+
+41
+00:03:34,770 --> 00:03:40,400
+And we can also give a thing so that when you scrub the image stays fixed.
+
+42
+00:03:40,560 --> 00:03:47,130
+And when you scroll up and down it gives kind of a very nice effect as if the content is moving whereas
+
+43
+00:03:47,390 --> 00:03:48,620
+image is not.
+
+44
+00:03:48,650 --> 00:03:56,900
+So let's hope it does.
+
+45
+00:03:56,940 --> 00:04:00,080
+And let's make it fixed.
+
+46
+00:04:00,100 --> 00:04:04,800
+You know you see Zunes
+
+47
+00:04:10,370 --> 00:04:11,440
+see heads
+
+48
+00:04:14,580 --> 00:04:25,660
+and you know as you can see when I'm scrolling to the background stays the same only the content changes
+
+49
+00:04:26,110 --> 00:04:28,930
+her that that's awesome.
+
+50
+00:04:29,000 --> 00:04:30,010
+Let's make it bigger.
+
+51
+00:04:30,080 --> 00:04:31,550
+Let's make this the
+
+52
+00:04:38,440 --> 00:04:39,730
+506.
+
+53
+00:04:39,980 --> 00:04:40,880
+That's beautiful.
+
+54
+00:04:42,590 --> 00:04:49,350
+On to or play some she's just 36 and has two different suits in the middle.
+
+55
+00:04:49,570 --> 00:04:50,700
+It looks pretty neat.
+
+56
+00:04:50,710 --> 00:04:52,400
+Pretty good.
+
+57
+00:04:52,410 --> 00:04:54,700
+Now we're focusing the images very well.
+
+58
+00:04:54,800 --> 00:05:05,120
+That's Austin de the content.
+
+59
+00:05:06,580 --> 00:05:07,500
+Let's give this.
+
+60
+00:05:07,500 --> 00:05:14,280
+So this is the one retargeting But this device which holds all the content lets you read a class name
+
+61
+00:05:15,240 --> 00:05:16,660
+its last name of
+
+62
+00:05:25,110 --> 00:05:26,050
+content.
+
+63
+00:05:26,520 --> 00:05:39,610
+So I was just going to see the score with this one so that it could be you know scissors.
+
+64
+00:05:40,460 --> 00:05:46,480
+And then the one we just created is this will be this one first.
+
+65
+00:05:46,500 --> 00:05:57,190
+And as you can see it means it's not there something you have Also what are done here as you can see
+
+66
+00:05:57,190 --> 00:06:02,230
+that there is a bit of a building on top and bottom and this text is center.
+
+67
+00:06:02,470 --> 00:06:07,080
+So I see that using these services.
+
+68
+00:06:07,360 --> 00:06:09,370
+So let me actually copy this
+
+69
+00:06:15,820 --> 00:06:16,710
+in without this.
+
+70
+00:06:16,710 --> 00:06:23,470
+It looks like this as we saw it earlier but as soon as you apply this this is as you can see how black
+
+71
+00:06:23,470 --> 00:06:27,170
+the bally on top and bottom.
+
+72
+00:06:27,220 --> 00:06:30,510
+You can even write like this reading it right up right left.
+
+73
+00:06:30,660 --> 00:06:32,910
+You can even do this.
+
+74
+00:06:33,600 --> 00:06:41,950
+So it applies on top and bottom and then the second same thing is for the right and left right and left
+
+75
+00:06:41,970 --> 00:06:44,290
+as I to leave it there as it is.
+
+76
+00:06:44,290 --> 00:06:55,410
+So this will this is this we have the center content of the applied bit of betting top and bottom and
+
+77
+00:06:55,500 --> 00:07:04,740
+Geraint right and left and we got these styling which is as in the bag on e-mails.
+
+78
+00:07:04,750 --> 00:07:09,700
+There was one issue which I fixed and I think my wriggling was of that time.
+
+79
+00:07:09,700 --> 00:07:14,520
+So I just want to show you how to fix that when I move.
+
+80
+00:07:14,520 --> 00:07:16,720
+That is why I was using there live.
+
+81
+00:07:16,720 --> 00:07:19,970
+It was working fine but as soon as I move it didn't work.
+
+82
+00:07:19,960 --> 00:07:28,520
+So if I leave it just like this let me just say that before we were trying like this right.
+
+83
+00:07:28,630 --> 00:07:32,470
+So if you go first as you'll see the image is gone.
+
+84
+00:07:32,770 --> 00:07:39,890
+That's because when you actually play it and CIRCE's stylesheet what happens is it has to follow by
+
+85
+00:07:39,920 --> 00:07:40,600
+a domain.
+
+86
+00:07:40,610 --> 00:07:46,840
+So it in NHL website when you push whoosh out to the live show you'll have the domain name.
+
+87
+00:07:47,020 --> 00:07:49,290
+And then there will be a full name.
+
+88
+00:07:49,300 --> 00:07:53,490
+So you'll have my domain dot com Sless images.
+
+89
+00:07:53,490 --> 00:08:00,820
+So there's no way in all that but because we work locally and this is the actual path we need the index
+
+90
+00:08:00,940 --> 00:08:06,910
+obviously but this is the destination of our for that route.
+
+91
+00:08:06,910 --> 00:08:10,080
+So this is the one I copy and paste here.
+
+92
+00:08:10,720 --> 00:08:19,200
+So on the user I pull that up to the bootstrap which is the form and then Emacs's and then then does
+
+93
+00:08:19,910 --> 00:08:25,600
+just fix that up and then you should be glad to the.
+
+94
+00:08:25,680 --> 00:08:29,180
+Everything is already.
+
+95
+00:08:29,350 --> 00:08:31,180
+So this is it for this lesson.
+
+96
+00:08:31,350 --> 00:08:36,960
+Show you one more thing in terms of design and background with images and all this stuff I would say
+
+97
+00:08:36,980 --> 00:08:42,490
+one would think that is adding the gradient background which is awesome.
+
+98
+00:08:42,850 --> 00:08:49,490
+So probably will head black to slowly fading to work in the next video.
+
+99
+00:08:49,540 --> 00:08:50,270
+Thank you very much.
+

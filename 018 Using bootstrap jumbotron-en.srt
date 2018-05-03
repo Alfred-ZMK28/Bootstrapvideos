@@ -1,0 +1,212 @@
+1
+00:00:02,180 --> 00:00:05,190
+This let's have a look at all sides.
+
+2
+00:00:05,240 --> 00:00:12,920
+OK so we had the main text and then we had a bit of a description with the horizontal.
+
+3
+00:00:13,080 --> 00:00:19,380
+Let's try to recreate the same thing with bootstrap and we will add more later on.
+
+4
+00:00:19,680 --> 00:00:20,250
+So
+
+5
+00:00:23,610 --> 00:00:36,790
+let's call her horizontal line and then let's create a better some dummy did not mean text it looks.
+
+6
+00:00:36,980 --> 00:00:39,890
+See her in the mirror.
+
+7
+00:00:41,250 --> 00:00:44,740
+Beautiful So as you can see bootstrap is taking place.
+
+8
+00:00:44,800 --> 00:00:48,490
+It looks around looks much better.
+
+9
+00:00:50,950 --> 00:00:58,770
+So we created the content seconds and we created a row internal to do with the cause of trub.
+
+10
+00:00:59,320 --> 00:01:08,560
+What if we want to send to the text we can use obviously we can use this style she has this our own
+
+11
+00:01:08,560 --> 00:01:09,750
+she says.
+
+12
+00:01:10,630 --> 00:01:17,710
+But with woodchip it's really all you have to do is because you want to send to this deal the content
+
+13
+00:01:17,710 --> 00:01:18,710
+of this deal.
+
+14
+00:01:18,850 --> 00:01:20,790
+You want to center in the square.
+
+15
+00:01:20,890 --> 00:01:30,250
+So all you do is text the sender even if it is not a text you can use this class name and that will
+
+16
+00:01:30,370 --> 00:01:38,320
+send to the content of this device say with friends and you can see it's center.
+
+17
+00:01:38,470 --> 00:01:40,720
+That's how whatsapp works.
+
+18
+00:01:40,720 --> 00:01:48,760
+It's all about using bootstrap class names to make our life a lot easier and building fully responsive
+
+19
+00:01:48,790 --> 00:01:58,470
+beautiful web with Bass's are all about giving you the background color just like this.
+
+20
+00:01:58,590 --> 00:02:03,420
+Let's get you to back up again and bootstrap for that.
+
+21
+00:02:03,420 --> 00:02:04,390
+It's pretty easy.
+
+22
+00:02:04,400 --> 00:02:07,490
+Woodchip has a class name it's called jumbotron
+
+23
+00:02:13,000 --> 00:02:21,510
+and what it does it gives a just like the name Jumbo and it creates a bit of a background with bare
+
+24
+00:02:21,510 --> 00:02:29,500
+padding with mice and these that are also out for you all these most useful class names.
+
+25
+00:02:29,970 --> 00:02:32,220
+So don't get overwhelmed don't.
+
+26
+00:02:32,220 --> 00:02:32,970
+Don't worry.
+
+27
+00:02:32,990 --> 00:02:35,450
+How are you going to remember all these classes.
+
+28
+00:02:35,550 --> 00:02:43,370
+Just the ones that I cover in this course will make you pretty much ready to build almost anywhere best.
+
+29
+00:02:43,660 --> 00:02:48,460
+So once you get busy once you start building a couple of projects you'll be good.
+
+30
+00:02:48,710 --> 00:02:50,260
+You'll be really comfortable.
+
+31
+00:02:50,430 --> 00:03:00,930
+So it's not nice to call them truckle grade send the text and then we apply this let's see how it looks.
+
+32
+00:03:01,000 --> 00:03:01,590
+The first
+
+33
+00:03:04,070 --> 00:03:16,150
+different that we can we use the spirit of programming Jumbotron for how beautiful it looks.
+
+34
+00:03:16,930 --> 00:03:18,090
+It's amazing isn't it.
+
+35
+00:03:20,590 --> 00:03:24,450
+That's the beauty of bootstrap.
+
+36
+00:03:24,890 --> 00:03:30,320
+So this is how we can see the change as soon as you apply Jumbotron.
+
+37
+00:03:30,370 --> 00:03:31,050
+Beautiful.
+
+38
+00:03:31,060 --> 00:03:36,070
+How about making it full with especially on the top of the base.
+
+39
+00:03:36,150 --> 00:03:38,170
+That look really good.
+
+40
+00:03:38,200 --> 00:03:40,030
+If we freehand make it full with.
+
+41
+00:03:40,360 --> 00:03:47,270
+So we didn't do that just by sending the class name again.
+
+42
+00:03:47,410 --> 00:03:54,750
+So previously I said content but content also we have one more option for that content fluid.
+
+43
+00:03:55,170 --> 00:03:59,530
+Once your blood contains a fluid what it does is fluids.
+
+44
+00:03:59,890 --> 00:04:04,740
+It stretches the entire screen.
+
+45
+00:04:04,810 --> 00:04:07,790
+So let let's try it out for us.
+
+46
+00:04:07,880 --> 00:04:12,690
+And as you can see it stretches the whole screen looks beautiful now.
+
+47
+00:04:12,720 --> 00:04:13,300
+All right.
+
+48
+00:04:13,330 --> 00:04:16,990
+So that's exciting isn't it.
+
+49
+00:04:16,990 --> 00:04:24,330
+This is beautiful the words were but it's really really fun to work with and makes her life a lot easier
+
+50
+00:04:24,340 --> 00:04:27,550
+and we can create beautiful pages in no time.
+
+51
+00:04:27,550 --> 00:04:28,000
+All right.
+
+52
+00:04:28,000 --> 00:04:29,560
+More in the next lesson.
+
+53
+00:04:29,630 --> 00:04:29,980
+Peggy.
+

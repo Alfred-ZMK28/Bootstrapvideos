@@ -1,0 +1,260 @@
+1
+00:00:00,280 --> 00:00:10,160
+Are going to be starting decree I want to show you what an absolutely amazing thing that it is.
+
+2
+00:00:11,040 --> 00:00:14,020
+We'll start out I really love it.
+
+3
+00:00:14,100 --> 00:00:15,140
+This is amazing.
+
+4
+00:00:17,100 --> 00:00:24,650
+It's good to well and good with the schools that they have.
+
+5
+00:00:24,840 --> 00:00:30,100
+As you can see Greek to open more when you click in something like that pops up.
+
+6
+00:00:30,150 --> 00:00:30,920
+Cool right.
+
+7
+00:00:31,690 --> 00:00:37,000
+It's let's let's use this Curtiz.
+
+8
+00:00:37,090 --> 00:00:39,410
+Let's go have a look at the code.
+
+9
+00:00:40,860 --> 00:00:44,330
+So what they have here is pretty standard here.
+
+10
+00:00:44,420 --> 00:00:51,380
+They have a tag they have a deal and this deal has this button.
+
+11
+00:00:51,870 --> 00:00:58,410
+This button gives the data total model and data target is the model the same as we did earlier with
+
+12
+00:00:58,890 --> 00:01:00,150
+navigation and all that.
+
+13
+00:01:00,210 --> 00:01:02,110
+So the same way.
+
+14
+00:01:02,160 --> 00:01:13,110
+So we have a deal with a model with the idea of class Fred and then we have the two different divs with
+
+15
+00:01:13,110 --> 00:01:19,850
+buttons one has for closing and then we have the header we have the body six.
+
+16
+00:01:20,070 --> 00:01:21,840
+And we have the button.
+
+17
+00:01:21,880 --> 00:01:24,620
+It's pretty standard.
+
+18
+00:01:24,650 --> 00:01:30,730
+So let's take these example and try it out.
+
+19
+00:01:32,230 --> 00:01:34,140
+Gourley starts here.
+
+20
+00:01:34,160 --> 00:01:39,600
+And then let's go with the compre
+
+21
+00:01:42,320 --> 00:01:45,460
+scorpion is also quite a skill in.
+
+22
+00:01:45,620 --> 00:01:47,400
+Which is really helpful.
+
+23
+00:01:47,440 --> 00:01:49,930
+And nothing wrong with that.
+
+24
+00:01:49,930 --> 00:01:54,700
+Everyone does the same thing because you can use
+
+25
+00:01:57,260 --> 00:02:05,600
+the Sablon plugin for that without one for you without them.
+
+26
+00:02:05,840 --> 00:02:15,150
+So they didn't have to always go there and Kope you can generate things kind of like let's say bootstrap
+
+27
+00:02:16,190 --> 00:02:18,040
+3.
+
+28
+00:02:18,540 --> 00:02:22,840
+And as you can see it get all the the mark up.
+
+29
+00:02:22,840 --> 00:02:32,550
+However I will say the next how will you do this but for the moment let's say that in say it and that's
+
+30
+00:02:32,660 --> 00:02:40,260
+how it is at the end moral example open and open up how good is that.
+
+31
+00:02:40,260 --> 00:02:41,020
+That's awesome.
+
+32
+00:02:42,400 --> 00:02:43,890
+All right.
+
+33
+00:02:44,200 --> 00:03:18,900
+So let's let's make it Center in lets make sense to modern Hedger like Zandu.
+
+34
+00:03:19,610 --> 00:03:25,050
+All right let's leave it let's keep it a double.
+
+35
+00:03:25,190 --> 00:03:26,280
+This is
+
+36
+00:03:30,480 --> 00:03:34,880
+a lot of copy based here but I'm sure you got the point.
+
+37
+00:03:35,460 --> 00:03:41,270
+It is necessary are you patient.
+
+38
+00:03:41,490 --> 00:03:47,020
+There's a better way would say next but there's no point in writing line by line.
+
+39
+00:03:47,160 --> 00:03:52,770
+It's just a lot of time and saved lives.
+
+40
+00:03:52,800 --> 00:03:54,620
+And as you can see we have the model.
+
+41
+00:03:55,010 --> 00:04:01,940
+It's a bit of a digital and we can a better.
+
+42
+00:04:03,030 --> 00:04:05,930
+What is the name of this model.
+
+43
+00:04:06,040 --> 00:04:13,370
+DB It's called Murder box.
+
+44
+00:04:16,370 --> 00:04:16,810
+This
+
+45
+00:04:24,690 --> 00:04:29,040
+50 piece.
+
+46
+00:04:30,730 --> 00:04:30,980
+Called
+
+47
+00:04:43,920 --> 00:04:49,790
+it first and that was all right.
+
+48
+00:04:50,600 --> 00:05:00,830
+So we can use this we can use this to create Let's say we can even pull this contact from inside the
+
+49
+00:05:00,830 --> 00:05:01,320
+murder.
+
+50
+00:05:01,490 --> 00:05:03,980
+So you can simply say contact us.
+
+51
+00:05:03,980 --> 00:05:07,680
+And then when people click on the Contact Us they will get this contact.
+
+52
+00:05:07,790 --> 00:05:08,970
+That would be awesome right.
+
+53
+00:05:09,020 --> 00:05:11,950
+So you can be creative and do a lot of stuff.
+
+54
+00:05:11,950 --> 00:05:16,010
+And let's see what we would be doing in the future once we get into degree.
+
+55
+00:05:16,010 --> 00:05:19,880
+Maybe we'll do some things with this model or maybe not.
+
+56
+00:05:19,880 --> 00:05:24,130
+Let's see but as you can see this is really cool.
+
+57
+00:05:24,620 --> 00:05:30,980
+OK so let's let's wrap it up let's wrap this with subsects.
+
+58
+00:05:31,190 --> 00:05:40,950
+We learn quite a lot and I hope you really enjoyed it and then definitely again we're amazing were business
+
+59
+00:05:41,410 --> 00:05:48,770
+responsive fluorescent spaces and bootstrapped you once you have reached this far and practice a few
+
+60
+00:05:48,980 --> 00:05:53,560
+times and I'm sure you love practicing because it's honest fun.
+
+61
+00:05:54,030 --> 00:05:55,160
+It's so much fun.
+
+62
+00:05:56,220 --> 00:05:56,450
+All right.
+
+63
+00:05:56,460 --> 00:05:57,190
+Thank you very much.
+
+64
+00:05:57,210 --> 00:06:00,390
+And I will meet in the next six and with Dick Gregory.
+
+65
+00:06:00,390 --> 00:06:00,810
+Thank you.
+

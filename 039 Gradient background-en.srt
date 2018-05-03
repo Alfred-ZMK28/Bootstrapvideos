@@ -1,0 +1,196 @@
+1
+00:00:00,900 --> 00:00:02,900
+OK I'm sure you're having a great time.
+
+2
+00:00:03,120 --> 00:00:11,340
+Practical bootstrap again and all these things you learn you can apply it to real life.
+
+3
+00:00:11,480 --> 00:00:14,520
+And this is this is what you need to know.
+
+4
+00:00:15,560 --> 00:00:19,610
+We give the slider good background in all this scrolling effect.
+
+5
+00:00:19,610 --> 00:00:31,840
+Now that you can see the grading slowly goes from dark black to fade and fading away like that looks
+
+6
+00:00:31,840 --> 00:00:32,510
+really awesome.
+
+7
+00:00:32,530 --> 00:00:39,290
+You can see such background with gradient if it looks really fantastic.
+
+8
+00:00:39,550 --> 00:00:42,510
+So how do you achieve that.
+
+9
+00:00:42,750 --> 00:00:51,340
+Let's let's use the slogan slightly faded car looks awesome let me see the view pencil's actually let's
+
+10
+00:00:51,340 --> 00:00:53,420
+see the inspect.
+
+11
+00:00:53,860 --> 00:00:56,330
+And as you can see done with some.
+
+12
+00:00:56,380 --> 00:00:58,380
+I give it a class name of what you want.
+
+13
+00:00:58,480 --> 00:01:00,820
+And this is what I use Lynagh brilliant.
+
+14
+00:01:00,830 --> 00:01:02,100
+Right.
+
+15
+00:01:02,140 --> 00:01:03,660
+So let me just copy this
+
+16
+00:01:06,780 --> 00:01:18,490
+Corbin's and then come back to my site and you can get that where it says is creating.
+
+17
+00:01:18,700 --> 00:01:23,130
+This is very true.
+
+18
+00:01:23,350 --> 00:01:29,460
+Just by Googling and born here they have pretty good example.
+
+19
+00:01:30,550 --> 00:01:34,310
+See you see all these actually were done reason looks pretty good.
+
+20
+00:01:36,150 --> 00:01:38,790
+But for the table I think black and white looks fine.
+
+21
+00:01:38,790 --> 00:01:45,420
+So you can see all these and they have different styling applied so that it works works well for the
+
+22
+00:01:45,420 --> 00:01:48,720
+old browsers for Firefox for us or for him.
+
+23
+00:01:48,830 --> 00:01:54,360
+So if he encounters some problem in Mozambique and hopefully other browsers will support but if not
+
+24
+00:01:54,770 --> 00:01:57,370
+there's a fix.
+
+25
+00:01:57,570 --> 00:02:05,040
+So as you can see with we'll throw it away with all this but on nearly all passengers sometimes this
+
+26
+00:02:05,040 --> 00:02:08,770
+happens some browser works well some eyebrows done.
+
+27
+00:02:09,250 --> 00:02:12,120
+So what it does is does work it does.
+
+28
+00:02:12,150 --> 00:02:13,230
+This is falsified.
+
+29
+00:02:13,440 --> 00:02:16,740
+And everything else is same as a linear gradient.
+
+30
+00:02:16,770 --> 00:02:24,330
+All this everything is same but for specific browsers there are certain name on up with this new standard.
+
+31
+00:02:24,330 --> 00:02:27,080
+Hopefully you will have to this it's quite a headache.
+
+32
+00:02:27,610 --> 00:02:35,940
+This is for Safari Wickett all they use for opera modes they use for Mozilla Firefox and so hopefully
+
+33
+00:02:35,950 --> 00:02:37,820
+I don't have to do all this yet.
+
+34
+00:02:39,060 --> 00:02:50,980
+So these Divx which give you the name of it and then add another Gerns gradient.
+
+35
+00:02:51,170 --> 00:03:01,910
+You know in his first news biz It was then that he
+
+36
+00:03:06,750 --> 00:03:14,130
+guess because we use words on its head and back.
+
+37
+00:03:14,340 --> 00:03:15,130
+Ms.
+
+38
+00:03:16,280 --> 00:03:22,570
+Klans instead here and we have the table from Austin so we can use this to the table.
+
+39
+00:03:22,840 --> 00:03:23,070
+So
+
+40
+00:03:26,030 --> 00:03:36,200
+from us so as you can see we can add background radian background which is pretty cool.
+
+41
+00:03:36,340 --> 00:03:41,220
+You just want to say call up.
+
+42
+00:03:41,390 --> 00:03:42,830
+I don't have a problem with this.
+
+43
+00:03:42,910 --> 00:03:50,320
+This is code which is slightly x x x x y
+
+44
+00:03:54,040 --> 00:03:54,220
+and
+
+45
+00:04:01,520 --> 00:04:03,510
+word said danger
+
+46
+00:04:08,610 --> 00:04:10,660
+or nodes straight.
+
+47
+00:04:10,660 --> 00:04:12,350
+That's awesome.
+
+48
+00:04:12,410 --> 00:04:20,710
+This is this is just to say use the phrase Buderim
+
+49
+00:04:26,780 --> 00:04:27,420
+making great.
+
